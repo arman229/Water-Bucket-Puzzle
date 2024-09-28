@@ -3,7 +3,7 @@
 # Water Bucket Puzzle 🪣💧
 
 ![Water Bucket Puzzle Banner](water_buckt_game.jpg)  
-![Containers](docker_contaienr.png)
+ 
 ## Table of Contents
 
 - [Overview](#overview)
